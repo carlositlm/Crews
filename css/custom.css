@@ -38,20 +38,21 @@ h3 {
 
 /* Contenidos y Formulario*/
 .my-content {
-    padding: 100px 0 170px 0;
+    padding: 38px 0 1px 0;
 }
 .my-content .mydescription {
-    margin: 20px 0 10px 0;
+    margin: 1px 0 10px 0;
 }
 .my-content .mydescription p {
     opacity: 0.8;
 }
 .myform-cont {
-    margin-top: 35px;
+
+    margin-top: 1px;
 }
 .myform-top {
     overflow: hidden;
-    padding: 0 25px 15px 25px;
+    padding: 0 25px 1px 25px;
     background: rgba(0, 0, 0, 0.35);
     -moz-border-radius: 10px 10px 0 0;
     -webkit-border-radius: 10px 10px 0 0;
