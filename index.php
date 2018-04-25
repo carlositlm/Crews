@@ -28,7 +28,7 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
-                <a href="index.php" class="navbar-brand">CrewsOTServer</a>
+                <a href="index.html" class="navbar-brand">CrewsOTServer</a>
               </div>
               <?php session_start();
               if(isset($_SESSION['estatus'])){
